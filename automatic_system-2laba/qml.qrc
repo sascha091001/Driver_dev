@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>debugger.exe</file>
+        <file>add_site.png</file>
+        <file>Alex.jpg</file>
+        <file>delete.png</file>
+        <file>eye.png</file>
+        <file>logo.png</file>
+        <file>minus.png</file>
+        <file>plus.png</file>
+        <file>update.png</file>
+        <file>DebugProtector.exe</file>
+        <file>print.png</file>
+        <file>DebugProtector1.exe</file>
+    </qresource>
+</RCC>
