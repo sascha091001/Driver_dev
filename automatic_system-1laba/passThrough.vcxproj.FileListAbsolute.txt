@@ -1,0 +1,2 @@
+D:\Drivers\Windows-driver-samples-master\filesys\miniFilter\passThrough\x64\Debug\passThrough.sys
+E:\VisualStudio\Driver_Filter\Windows-driver-samples-master\filesys\miniFilter\passThrough\x64\Debug\passThrough.sys
