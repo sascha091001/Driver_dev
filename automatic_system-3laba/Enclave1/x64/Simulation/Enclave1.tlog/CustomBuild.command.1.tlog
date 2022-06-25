@@ -1,0 +1,2 @@
+^E:\VISUALSTUDIO\ENCLAVE1\ENCLAVE1\ENCLAVE1.EDL
+"C:\Program Files (x86)\Intel\IntelSGXSDK\bin\win32\release\sgx_edger8r.exe" --trusted "E:\VisualStudio\Enclave1\Enclave1\Enclave1.edl" --search-path "C:\Program Files (x86)\Intel\IntelSGXSDK\include"
